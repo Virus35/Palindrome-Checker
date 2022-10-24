@@ -1,5 +1,5 @@
 ## 🔗Palindrome Checker
-[https://vishal-fully-functional-calculator.netlify.app/](https://vishal-fully-functional-calculator.netlify.app/)
+[https://vishal-palindrome-checker-game.netlify.app/](https://vishal-palindrome-checker-game.netlify.app/)
 
 
 ## ⭐ Palindrome Checker ⭐
@@ -15,6 +15,7 @@ This is the assignment given in the **"JavaScript Full Stack Web Developer Bootc
 ### 📌 Overview 
 
 
+![PROJECT-SCREENSHOT](./vishal-palindrome-netlify.png) <br>
 ![PROJECT-SCREENSHOT](./vishal-palindrome-netlify.png)
 
 ### 📌 What I Learn

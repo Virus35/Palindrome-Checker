@@ -18,7 +18,7 @@ button.addEventListener("click",(e)=>{
         normal.textContent=` is a palindrome.`;
     }
     else{
-        special.textContent=`"${save.toUpperCase()}"😦`;
+        special.textContent=`"${save}"😦`;
         normal.textContent=` is a not a palindrome.`;
     }
 })
