@@ -1,4 +1,4 @@
-## 🔗Palindrome Checker
+## 🔗 Palindrome Checker
 [https://vishal-palindrome-checker-game.netlify.app/](https://vishal-palindrome-checker-game.netlify.app/)
 
 
