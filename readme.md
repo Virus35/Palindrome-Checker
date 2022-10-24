@@ -16,7 +16,7 @@ This is the assignment given in the **"JavaScript Full Stack Web Developer Bootc
 
 
 ![PROJECT-SCREENSHOT](./vishal-palindrome-netlify.png) <br>
-![PROJECT-SCREENSHOT](./vishal-palindrome-netlify.png)
+![PROJECT-SCREENSHOT](./vishal-palindrome-checker-game.netlify.app_.png)
 
 ### 📌 What I Learn
 
