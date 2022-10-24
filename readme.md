@@ -15,7 +15,7 @@ This is the assignment given in the **"JavaScript Full Stack Web Developer Bootc
 ### 📌 Overview 
 
 
-![PROJECT-SCREENSHOT](./Vishal-Fully-Functional-Automatic-Calculator-Netlify.png)
+![PROJECT-SCREENSHOT](./vishal-palindrome-netlify.png)
 
 ### 📌 What I Learn
 
